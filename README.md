@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - PROJETO-PORTOS
+<img width="1157" height="44" alt="image" src="https://github.com/user-attachments/assets/f5c84cf3-5aee-4eab-bd99-9ae3b2efca6c" /># Aprendizado por Projeto Integrado (API) - PROJETO-PORTOS
 O projeto visa realizar uma análise de portos com base nos dados da ANTAC. Faremos a construção de um dashboard mostrando a eficiência dos portos  analisando a sazonalidade das paradas.
 
 # Índice
