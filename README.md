@@ -47,8 +47,8 @@ Objetivo: Desenvolver uma plataforma funcional e documentada que responda a ques
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como Gestor Portuário, quero um notebook em Google Colab que acesse, normalize e limpe os dados da ANTAQ, para que eu possa reutilizar este script em aulas futuras e gerar bases para outras análises.                                                   | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
+| 2    | Alta       | Como Gestor Portuário, quero desenvolver no Colab a lógica para calcular os tempos de operação e a eficiência comparativa, para que os cálculos complexos sejam validados antes de irem para o dashboard.                                                                    | 8          | 1      |
+| 3    | Alta       | Como Gestor Portuário, quero um painel no PowerBI que mostre um ranking com os Top N motivos de paradas, para identificar rapidamente os principais gargalos operacionais.                                               | 5          | 2      |
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
   
