@@ -1,4 +1,4 @@
-<img width="1157" height="44" alt="image" src="https://github.com/user-attachments/assets/f5c84cf3-5aee-4eab-bd99-9ae3b2efca6c" /># Aprendizado por Projeto Integrado (API) - PROJETO-PORTOS
+# Aprendizado por Projeto Integrado (API) - PROJETO-PORTOS
 O projeto visa realizar uma análise de portos com base nos dados da ANTAC. Faremos a construção de um dashboard mostrando a eficiência dos portos  analisando a sazonalidade das paradas.
 
 # Índice
@@ -17,7 +17,7 @@ Objetivo: Desenvolver uma plataforma funcional e documentada que responda a ques
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Gabriel Barradas         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| Product Owner |   Gabriel Barradas         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbarradas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
 | Scrum Master  | Rafael cesar lira |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
 | Team Member   | Manasses              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
 
@@ -57,7 +57,7 @@ Objetivo: Desenvolver uma plataforma funcional e documentada que responda a ques
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
