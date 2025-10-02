@@ -49,8 +49,16 @@ Objetivo: Desenvolver uma plataforma funcional e documentada que responda a ques
 | 1    | Alta       | Como Gestor Portuário, quero um notebook em Google Colab que acesse, normalize e limpe os dados da ANTAQ, para que eu possa reutilizar este script em aulas futuras e gerar bases para outras análises.                                                   | 5          | 1      |
 | 2    | Alta       | Como Gestor Portuário, quero desenvolver no Colab a lógica para calcular os tempos de operação e a eficiência comparativa, para que os cálculos complexos sejam validados antes de irem para o dashboard.                                                                    | 8          | 1      |
 | 3    | Alta       | Como Gestor Portuário, quero um painel no PowerBI que mostre um ranking com os Top N motivos de paradas, para identificar rapidamente os principais gargalos operacionais.                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 4    | Alta       | Como Gestor Portuário, quero ferramentas de busca e filtros personalizáveis no dashboard, para que eu possa encontrar terminais específicos e analisar os dados com base em  critérios a serem escolhidos.                                               | 5          | 2      |
+| 5    | Alta       | Como Gestor Portuário, quero a documentação completa do projeto no GitHub, incluindo backlogs.                                               | 5          | 2      |
+| 6    | Alta       | Como Gestor Portuário, quero um painel de "Segmentação por Terminal" que apresente um ranking de eficiência entre eles, para realizar benchmarking e avaliar a produtividade comparativa.                                               | 5          | 2      |
+| 7    | Alta       | Como Gestor Portuário, quero visualizar no dashboard a evolução da quantidade transportada por mês em cada terminal, para identificar tendências de crescimento ou queda na movimentação de cargas.                                               | 5          | 2      |
+| 8    | Alta       | Como Gestor Portuário,  quero um gráfico interativo que relacione os motivos de parada com os períodos do ano, para analisar a sazonalidade e prever possíveis problemas.                                               | 5          | 2      |
+| 9    | Alta       | Como Gestor Portuário, quero que a plataforma tenha uma navegação intuitiva, permitindo o acesso às informações com poucos cliques.                                               | 5          | 2      |
+| 10    | Alta       | Como Gestor Portuário, quero que a Atualização da documentação da Sprint 2                                               | 5          | 2      |
+| 11    | Alta       | Como Gestor Portuário, quero um relatório que identifique os principais portos em quantidade transportada e as principais cargas movimentadas, para entender o perfil de cargas do país.                                               | 5          | 2      |
+| 12    | Alta       | Como Gestor Portuário, quero um painel que compare os tempos de espera e agilidade nas operações entre diferentes portos, para identificar os mais eficientes.                                               | 5          | 2      |
+| 13   | Baixa      | Como Gestor Portuário, quero a documentação atualizada do projeto no GitHub.     | 2          | 3      |
   
 # Registro das Sprints
 
