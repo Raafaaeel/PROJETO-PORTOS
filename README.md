@@ -63,7 +63,7 @@ Objetivo: Desenvolver uma plataforma funcional e documentada que responda a ques
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 03/10/2025 | a fazer  | [MVP]([MVP/sp1.md](https://github.com/Raafaaeel/PROJETO-PORTOS/blob/main/API-PORTOS%20-%20GABRIEL%20-%20RAFAEL%20-%20MANASSES.pbix)  |
+| 01                | 03/10/2025 | a fazer  | ([MVP/sp1.md](https://github.com/Raafaaeel/PROJETO-PORTOS/blob/main/API-PORTOS%20-%20GABRIEL%20-%20RAFAEL%20-%20MANASSES.pbix)  |
 | 02                | 24/10/2025 | a fazer  | [MVP]  |
 | 03                | 14/11/2025 | a fazer  | [MVP]  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP]  |
