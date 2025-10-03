@@ -19,7 +19,7 @@ Objetivo: Desenvolver uma plataforma funcional e documentada que responda a ques
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Gabriel Barradas         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbarradas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/barradasgabriel)              |
 | Scrum Master  | Rafael cesar lira |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-cesar-de-lira-140733223/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Raafaaeel/)     |
-| Team Member   | Manasses              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manassés-tenório-184182185/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
+| Team Member   | Manasses              |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manassés-tenório-184182185/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MANASSES2710)        |
 
 
 
@@ -63,7 +63,7 @@ Objetivo: Desenvolver uma plataforma funcional e documentada que responda a ques
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 03/10/2025 | a fazer  | [MVP](MVP/sp1.md)  |
+| 01                | 03/10/2025 | a fazer  | [MVP]([MVP/sp1.md](https://github.com/Raafaaeel/PROJETO-PORTOS/blob/main/API-PORTOS%20-%20GABRIEL%20-%20RAFAEL%20-%20MANASSES.pbix))  |
 | 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
