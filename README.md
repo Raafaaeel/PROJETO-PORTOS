@@ -1,6 +1,10 @@
 # Aprendizado por Projeto Integrado (API) - PROJETO-PORTOS
 O projeto visa realizar uma análise de portos com base nos dados da ANTAC. Faremos a construção de um dashboard mostrando a eficiência dos portos  analisando a sazonalidade das paradas.
 
+Link Videos do projeto 
+https://youtu.be/0lPJUwKQlL0
+https://youtu.be/mChlALWswN0
+
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
@@ -65,6 +69,6 @@ Objetivo: Desenvolver uma plataforma funcional e documentada que responda a ques
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | a fazer  | ([MVP/sp1.md](https://github.com/Raafaaeel/PROJETO-PORTOS/blob/main/API-PORTOS%20-%20GABRIEL%20-%20RAFAEL%20-%20MANASSES.pbix)) |
 | 02                | 24/10/2025 | a fazer  | [MVP2](https://github.com/Raafaaeel/PROJETO-PORTOS/blob/main/MVP-2.rar)  |
-| 03                | 14/11/2025 | a fazer  | [MVP]  |
+| 03                | 14/11/2025 | a fazer  | [MVP](https://drive.google.com/drive/folders/156wE4Fx4DZgehFvw_uR34MMOrP2WFaGL?usp=sharing)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP]  |
 
