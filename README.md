@@ -2,6 +2,8 @@
 O projeto visa realizar uma análise de portos com base nos dados da ANTAC. Faremos a construção de um dashboard mostrando a eficiência dos portos  analisando a sazonalidade das paradas.
 
 Link Videos do projeto 
+https://youtu.be/t0V2-HCwYqI
+
 https://youtu.be/0lPJUwKQlL0
 https://youtu.be/mChlALWswN0
 
